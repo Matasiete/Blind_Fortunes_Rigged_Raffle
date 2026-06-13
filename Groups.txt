@@ -1,0 +1,8 @@
+("G1",2,"JohnConnor"): [True,0,"2026-6-13"]
+("G1",2,"3/ORipley"): [False,1,""]
+("G2",3,"246-O-1"): [True,0,"2026-6-13"]
+("G2",3,"3/ORipley"): [False,1,""]
+("G2",3,"WilliamWallace"): [False,2,""]
+("G3",3,"HackerNeo"): [True,0,"2026-6-13"]
+("G3",3,"LetoAtreides"): [False,1,""]
+("G3",3,"WilliamWallace"): [False,2,""]
